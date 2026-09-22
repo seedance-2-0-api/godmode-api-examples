@@ -37,4 +37,5 @@ GODMODE CLASSIC runs five model and prompt combinations in parallel so you can c
 
 G0DM0D3 is for comparing chat models in a browser with nothing stored server-side. If your actual task is generating media from code - FLUX image models, video models, audio models - and you want a single REST endpoint with a Python SDK and per-run billing rather than a chat UI and per-token gateway pricing, [Try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=godmode-api-examples&utm_content=readme-top&utm_term=tier-r). It is a different tool for a different job, and worth trying if that job is yours.
 
+
 _Last reviewed: 2026-09-22_
